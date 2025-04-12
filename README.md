@@ -40,7 +40,7 @@ If I had more time, I would test this component as follows:
    - Test resize functionality
    - Test item creation via double-click and right-click
    - Test overlap prevention
-   - Test single-day item expansion on hover
+   - Test single-day item expansion on click
 
 ## 🚀 Requirements
 
